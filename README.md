@@ -4,7 +4,8 @@
 ![Student DFD](https://github.com/Nautyy/Placement-Portal/assets/97411353/6609b96b-785d-47a9-b054-7f091b0bb7ce)
 
 ## Recruiter Data Flow Diagram
-![Recruiter DFD](https://github.com/pulkitbest/Placement-Portal/assets/76588219/d1af53ef-8b61-4f74-b88e-7361c629078b)
+![Recruiter](https://github.com/Nautyy/Placement-Portal/assets/97411353/13d2ec67-fb52-4c13-8afb-b5fb9348bca2)
 
 ## Admin Data Flow Diagram
-![Admin DFD](https://github.com/pulkitbest/Placement-Portal/assets/76588219/30759e8e-1dd8-4f26-b301-71ff88ecb4fc)
+![Admin-data](https://github.com/Nautyy/Placement-Portal/assets/97411353/aa1ca6b7-afc3-4dca-aec1-2148ebff0855)
+
